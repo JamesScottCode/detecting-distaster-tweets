@@ -5,7 +5,7 @@ This project focuses on detecting disaster-related tweets using Natural Language
 
 
 ## Dataset
-[The dataset consists of tweets labeled as disaster-related or not. The training and test data are loaded from Kaggle.](https://www.kaggle.com/competitions/nlp-getting-started/data)
+[Kaggle](https://www.kaggle.com/competitions/nlp-getting-started/data)
 
 ## Project Structure
 The notebook follows a structured pipeline:
