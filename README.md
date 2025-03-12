@@ -9,10 +9,14 @@ This project focuses on detecting disaster-related tweets using Natural Language
 
 ## Project Structure
 The notebook follows a structured pipeline:
-2. **Data Loading**: Using a `DisasterTweetAnalysis` class to load and preprocess the dataset.
-3. **Data Cleaning**: Applying text preprocessing steps.
-4. **Exploratory Data Analysis (EDA)**: Generating visualizations such as word clouds and distributions.
-5. **Feature Engineering and Model Training**: Transforming text into features and training a machine learning model.
+
+**Data Loading**: Using a `DisasterTweetAnalysis` class to load and preprocess the dataset.
+
+**Data Cleaning**: Applying text preprocessing steps.
+
+**Exploratory Data Analysis (EDA)**: Generating visualizations such as word clouds and distributions.
+
+**Feature Engineering and Model Training**: Transforming text into features and training a machine learning model.
 
 ## Usage
 1. Upload the notebook `detecting-disaster-tweets.ipynb` in a google colab environment. Upload your kaggle.json
